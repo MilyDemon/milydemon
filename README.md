@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DEMON</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<div style="text-align:center;">
+		<img src="https://github.com/MilyDemon/milydemon/blob/main/obrazek.gif?raw=true" alt="Obrazek GIF">
+	</div>
+</body>
+</html>
+
 Portfolio
 
 To jest moje portfolio, które zawiera przykłady moich prac z dziedziny modelowania 3D, rysunku, malarstwa, koncepcyjnych grafik gier komputerowych, animacji, przykłady stron internetowych i logotypów.
