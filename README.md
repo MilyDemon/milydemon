@@ -11,7 +11,7 @@
 </body>
 </html>
 
-Portfolio
+<!--Portfolio
 
 To jest moje portfolio, które zawiera przykłady moich prac z dziedziny modelowania 3D, rysunku, malarstwa, koncepcyjnych grafik gier komputerowych, animacji, przykłady stron internetowych i logotypów.
 
@@ -29,4 +29,4 @@ Moja strona została stworzona przy użyciu HTML, CSS i JavaScript. Aby w pełni
 
 Licencja
 
-Moje prace są objęte licencją Creative Commons Zero v1.0. Oznacza to, że możesz je dowolnie wykorzystywać bez ograniczeń i nie musisz podawać mojego nazwiska jako autora.
+Moje prace są objęte licencją Creative Commons Zero v1.0. Oznacza to, że możesz je dowolnie wykorzystywać bez ograniczeń i nie musisz podawać mojego nazwiska jako autora.-->
