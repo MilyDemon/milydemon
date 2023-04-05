@@ -1,4 +1,16 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Moja strona z obrazkiem GIF</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<div style="text-align:center;">
+		<img src="https://github.com/milydemon/milydemon/blob/main/milydemon.gif?raw=true" alt="Obrazek GIF">
+	</div>
+</body>
+</html>
+
 
 <!--
 **MilyDemon/milydemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
