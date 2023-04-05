@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div style="text-align:center;">
-		<img src="https://github.com/MilyDemon/milydemon/blob/main/obrazek.gif?raw=true" alt="Obrazek GIF">
+		<img src="https://github.com/milydemon/milydemon/blob/main/obrazek.gif?raw=true" alt="Obrazek GIF">
 	</div>
 </body>
 </html>
